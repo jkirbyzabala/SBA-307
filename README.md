@@ -12,7 +12,7 @@ indexP2.html Login Page
 indexP3.html This is a page where someone can submit a question
 
 Ten different HTML tags:
-<!-- <title>
+<title>
 <link>
 <script>
 <style>
@@ -29,7 +29,7 @@ Ten different HTML tags:
 <table>, <thead>, <tbody>, <tr>, <th>, <td>
 <br>
 <button>
-<img> -->
+<img>
 Total 20
 
 
