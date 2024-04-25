@@ -11,26 +11,7 @@ index.html This is my main page
 indexP2.html Login Page
 indexP3.html This is a page where someone can submit a question
 
-Ten different HTML tags:
-<title>
-<link>
-<script>
-<style>
-<body>
-<ul>
-<li>
-<a>
-<div>
-<h1>, <h2>
-<hr>
-<fieldset>, <legend>
-<input>
-<select>, <option>
-<table>, <thead>, <tbody>, <tr>, <th>, <td>
-<br>
-<button>
-<img>
-Total 20
+Ten different HTML tags: I used a Total of 20
 
 
 One Table:
