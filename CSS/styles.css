@@ -1,0 +1,56 @@
+
+/* External Styling */
+.background {
+    background-color: #0d3b66;
+    color: #faf0ca;
+}
+
+.title {
+    color: #faf0ca; 
+    text-shadow: 1px 1px 2px #0c1618;
+    
+    font-size: 50px;
+    padding: 20px;
+    transition: font-size 0.3s ease-in-out;
+}
+
+/* css animations */
+.title:hover {
+    font-size: 60px;
+
+}
+.subtitle {
+    color: #faf0ca;
+    transition-duration: 3s;
+
+    text-shadow: 1px 1px 2px #faf0ca;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+/* this is for the headers of the questionare */
+legend{
+    font-weight: bold;
+}
+
+
+
+
+#tableheader {
+    text-align: center;
+
+}
+tr:first-child {
+    background: lightgreen;
+
+}
+table {
+    background-color: #faf0ca;
+}
+
+.carousel-item, h3, p {
+    align-items: center;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
