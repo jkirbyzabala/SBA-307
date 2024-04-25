@@ -3,7 +3,7 @@ I created a vacation planner website that meets the requirements outlined for my
 
 Note:
 
-I used the same css file (1.1SBA.css) for both 1.1SBA.html and 1.2SBA.html
+I used the same css file (stylesP2andP3) for both IndexP2 and Index P3. which are my Login and Question Submission files respectively. 
 I used Coolers to find the color palette
 Three Pages:
 
